@@ -12,3 +12,7 @@ before navigation to the main activity.
 - # Tech Used
 - **Language : ** Kotlin
 - **IDE : ** Android Studio
+
+- ## Purpose
+- This project was created to understand and demonstrate the **Splash Screen concept** in
+- Android development.
