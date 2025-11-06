@@ -16,3 +16,6 @@ before navigation to the main activity.
 - ## Purpose
 - This project was created to understand and demonstrate the **Splash Screen concept** in
 - Android development.
+
+- [Splash Screen] ->
+- <img width="300" height="635" alt="Image" src="https://github.com/user-attachments/assets/c9e04267-9b12-4327-ba68-7790fafe0ea9" />
