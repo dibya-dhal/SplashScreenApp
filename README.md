@@ -10,7 +10,7 @@ before navigation to the main activity.
 - Displays "Welcome to My App" message on  the main screen
 
 - # Tech Used
-- **Language : ** Kotlin
+- **Language : ** Kotlin **
 - **IDE : ** Android Studio
 
 - ## Purpose
